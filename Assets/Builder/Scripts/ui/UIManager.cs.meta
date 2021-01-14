@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 65668d413e44c447eb10e08122099e1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Design: {instanceID: 0}
+  - GameOverlayWindow: {instanceID: 0}
+  - AttackOverlayWindow: {instanceID: 0}
+  - ShopWindow: {instanceID: 0}
+  - InventoryWindow: {instanceID: 0}
+  - SceneEnteringWindow: {instanceID: 0}
+  - BuildersBusyWindow: {instanceID: 0}
+  - ResultWindow: {instanceID: 0}
+  - TrainTroopsWindow: {instanceID: 0}
+  - ItemOptionsWindow: {instanceID: 0}
+  - InfoWindow: {instanceID: 0}
+  - WindowsContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

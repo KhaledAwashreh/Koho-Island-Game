@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 36149f0aa44054dc7a320cb30bdb5e07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BarrackSprite: {instanceID: 0}
+  - BoatSprite: {instanceID: 0}
+  - BuilderHutSprite: {instanceID: 0}
+  - CampSprite: {instanceID: 0}
+  - CannonSprite: {instanceID: 0}
+  - ElixirCollectorSprite: {instanceID: 0}
+  - ElixirStorageSprite: {instanceID: 0}
+  - GemsSprite: {instanceID: 0}
+  - GoldMineSprite: {instanceID: 0}
+  - GoldStorageSprite: {instanceID: 0}
+  - TowerSprite: {instanceID: 0}
+  - TownCenterSprite: {instanceID: 0}
+  - Tree1Sprite: {instanceID: 0}
+  - Tree2Sprite: {instanceID: 0}
+  - WindMillSprite: {instanceID: 0}
+  - WallSprite: {instanceID: 0}
+  - Tree3Sprite: {instanceID: 0}
+  - CoconutTreeSprite: {instanceID: 0}
+  - TentSprite: {instanceID: 0}
+  - Name: {instanceID: 0}
+  - Image: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

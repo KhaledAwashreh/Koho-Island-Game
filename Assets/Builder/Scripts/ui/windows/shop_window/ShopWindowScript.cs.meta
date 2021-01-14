@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: da9449d2c93f94f919ed6bafbc223312
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CategoryItem: {fileID: 7608340336296469720, guid: f7711017b29064c8789bab3dcafa7563,
+      type: 3}
+  - SubCategoryItem: {fileID: 8355811682556113030, guid: 4a2fd86fb10d3234996688ee30b74a56,
+      type: 3}
+  - ScrollView: {instanceID: 0}
+  - ItemsList: {instanceID: 0}
+  - BackButton: {fileID: 8355811682556113030, guid: 4a2fd86fb10d3234996688ee30b74a56,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
